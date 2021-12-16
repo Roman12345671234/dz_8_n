@@ -559,6 +559,7 @@ button:hover {
     height: 45vh;
     background-size: cover;
     background-repeat: no-repeat;
+    margin-left: 0;
 }
 .two {
     background-image: url(../images/08.jpg);
@@ -568,6 +569,7 @@ button:hover {
     height: 45vh;
     margin-top: 50px;
     background-repeat: no-repeat;
+    margin-left: 0;
 }
 .three {
     background-image: url(../images/07.jpg);
@@ -577,4 +579,5 @@ button:hover {
     height: 45vh;
     margin-top: 50px;
     background-repeat: no-repeat;
+    margin-left: 0;
 }
