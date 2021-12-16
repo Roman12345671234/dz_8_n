@@ -556,7 +556,7 @@ button:hover {
     background-image: url(../images/09.jpg);
     display: flex;
     margin-top: 50px;
-    height: 45vh;
+    height: 25vh;
     background-size: cover;
     background-repeat: no-repeat;
     margin-left: 0;
@@ -566,7 +566,7 @@ button:hover {
     position: center;
     display: flex;
     background-size: cover;
-    height: 45vh;
+    height: 25vh;
     margin-top: 50px;
     background-repeat: no-repeat;
     margin-left: 0;
@@ -576,7 +576,7 @@ button:hover {
     position: center;
     display: flex;
     background-size: cover;
-    height: 45vh;
+    height: 25vh;
     margin-top: 50px;
     background-repeat: no-repeat;
     margin-left: 0;
