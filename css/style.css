@@ -22,7 +22,6 @@
     font-style: normal;
     font-display: swap;
 }
-
 *{
     padding: 0;
     margin: 0;
@@ -89,14 +88,11 @@ header .soc{
     display: inline-block;
     line-height: 36px;
 }
-
-
 .position h1{
     font-size: 55px;
     line-height: 55px;
     color: #181818;
     font-family: '20 Kopeek_book';
-
 }
 .position p{
     font-family: '20 Kopeek_book';
@@ -138,12 +134,10 @@ header .soc{
     line-height: 25px;
     color: #181818;
     font-family: '20 Kopeek';
-
 }
 .brand_style_list li ul{
     display: inline-block;
 }
-
 .name_logo{
     margin-bottom: 120px;
 }
@@ -215,7 +209,6 @@ header .soc{
 .present{
     margin-bottom: 77px;
 }
-
 .present h2{
     font-size: 38px;
     line-height: 42px;
@@ -242,14 +235,12 @@ header .soc{
 }
 .text_item p:first-of-type{
     font-size:26px;
-
 }
 .text_item{
     color: white;
     background: #2B59C3;
     border-radius: 5px;
 }
-
 .submit_application h1{
     font-size: 38px;
     line-height: 42px;
@@ -292,7 +283,6 @@ header .soc{
     font-size: 18px;
     line-height: 25px;
     font-family: '20 Kopeek';
-
 }
 .checkbox{
     border: 1px solid #000000;
@@ -363,7 +353,6 @@ header .soc{
     color: #181818;
     font-family: '20 Kopeek_book';
     margin-bottom: 15px;
-
 }
 .connect_form .i_agree{
     margin-bottom: 48px;
@@ -394,7 +383,6 @@ header .soc{
 }
 .mass-media-item p{
     margin-bottom: 0;
-
 }
 .mass-media-item a{
     text-decoration: none;
@@ -487,7 +475,6 @@ header .soc{
     border-bottom: solid 1px gray;
     border-top: none;
 }
-
 .my-flex-container:last-of-type .item_3{
     border-bottom: solid 3px #2B59C3;
     border-bottom-right-radius: 10px;
@@ -567,14 +554,14 @@ button:hover {
 margin-left: 0;
 
 }
-.name {
+.one {
     background-image: url(../images/09.jpg);
     display: flex;
 margin-top: 50px;
     height: 27vh;
     background-size: 100%;
 }
-.must {
+.two {
     background-image: url(../images/08.jpg);
     position: center;
     display: flex;
@@ -582,7 +569,7 @@ margin-top: 50px;
     height: 27vh;
     margin-top: 50px;
 }
-.gost {
+.three {
     background-image: url(../images/07.jpg);
     position: center;
     display: flex;
