@@ -551,6 +551,7 @@ button:hover {
     width: 500px;
     margin: 0;
     background-repeat: no-repeat;
+    height: 25vh;
 }
 .one {
     background-image: url(../images/09.jpg);
