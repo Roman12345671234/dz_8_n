@@ -527,7 +527,7 @@ button:hover {
     animation: pulse 7s infinite;
 }
 .btn:hover {
-    background: red;
+    background: green;
     color: greenyellow;
     cursor: pointer;
     box-shadow: 300px 300px 300px rgba(4204,4204,4204, 4204);
@@ -570,8 +570,8 @@ margin-left: 0;
 .name {
     background-image: url(../images/09.jpg);
     display: flex;
-
-    height: 30vh;
+margin-top: 50px;
+    height: 27vh;
     background-size: 100%;
 }
 .must {
@@ -579,12 +579,14 @@ margin-left: 0;
     position: center;
     display: flex;
     background-size: 100%;
-    height: 30vh;
+    height: 27vh;
+    margin-top: 50px;
 }
 .gost {
     background-image: url(../images/07.jpg);
     position: center;
     display: flex;
     background-size: 100%;
-    height: 30vh;
+    height: 27vh;
+    margin-top: 50px;
 }
